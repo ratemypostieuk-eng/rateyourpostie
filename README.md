@@ -74,7 +74,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Service Unavailable</h1>
+    <h1>Services Unavailable</h1>
     <p>We regret to announce that due to significantly increased infrastructure costs, this website will no longer be operational.</p>
 
     <p>The following services are now discontinued:</p>
